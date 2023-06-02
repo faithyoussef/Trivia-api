@@ -1,3 +1,4 @@
+#Trivia-Api
 Full Stack Trivia API Frontend
 Getting Setup
 tip: this frontend is designed to work with Flask-based Backend. It is recommended you stand up the backend first, test using Postman or curl, update the endpoints in the frontend, and then the frontend should integrate smoothly.
